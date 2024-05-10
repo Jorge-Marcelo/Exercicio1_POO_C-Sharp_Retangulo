@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\bin\Debug\Retangulo Exercicio POO.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\bin\Debug\Retangulo Exercicio POO.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\bin\Debug\Retangulo Exercicio POO.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\obj\Debug\Retangulo Exercicio POO.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\obj\Debug\Retangulo Exercicio POO.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\obj\Debug\Retangulo Exercicio POO.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Retangulo Exercicio POO\Retangulo Exercicio POO\obj\Debug\Retangulo Exercicio POO.pdb
